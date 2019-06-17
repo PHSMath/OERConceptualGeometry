@@ -1,0 +1,5 @@
+book_filename: "OER_bookdown"
+output_dir: "docs"
+language:
+  ui:
+    chapter_name: "Chapter "

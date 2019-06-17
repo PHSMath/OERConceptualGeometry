@@ -1,0 +1,60 @@
+# Functions {#functions}
+
+## Review of Functions
+
+### General Information
+
+### Composition of Functions
+
+### Rates of Change
+
+### Symmetry
+
+### Exercises
+
+## Representing Functions
+
+### Using Formulas
+
+### Using Graphs
+
+### Using Tables
+
+### Using Words
+
+### Transformation of Functions
+
+### Exercises
+
+## Inverse, Exponential, and Logarithmic Functions
+
+### Exponential Functions
+
+### Inverse Functions
+
+### Logarithmic Functions
+
+### Exercises
+
+## Trigonometric Functions and Their Inverses
+
+### Measurement of Angles
+
+### Trigonometric Functions
+
+### Trigonometric Identities
+
+### Graphs of Trigonometric Functions
+
+### Inverse Trigonometric Functions and Their Graphs
+
+### Exercises
+
+## Review Exercises
+
+
+
+
+
+
+
